@@ -26,6 +26,7 @@
     - **Decorator** adds additional responsibilities to the wrapped object, while **Composite** just “sums up” its children’s results.
 - [Strategy](https://github.com/armleung/udemy-design-pattern/tree/master/Strategy)
     - **Decorator** lets you change the skin of an object, while **Strategy** lets you change the guts.
+    
 ### :octocat: Implementation
 1. Dynamic Decorator
 ```cpp
