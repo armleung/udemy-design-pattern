@@ -4,20 +4,20 @@
 ### :octocat: Intent
 > Attaches additional responsibilities to an **object** dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
-### Structure
+### :octocat: Structure
 ![Image](https://refactoring.guru/images/patterns/diagrams/decorator/structure-indexed.png)
 
-### Applicability 
+### :octocat: Applicability 
 - Use the Decorator pattern when you need to be able to assign extra behaviors to objects at runtime without breaking the code that uses these objects.
 - Use the pattern when it’s awkward or not possible to extend an object’s behavior using inheritance.
 - Many programming languages have the final keyword that can be used to prevent further extension of a class. For a final class, the only way to reuse the existing behavior would be to wrap the class with your own wrapper, using the Decorator pattern.
 
-### Consequences
+### :octocat: Consequences
 - More flexibility than static inheritance
 - Decorator and its components aren't identical
 - Lots of little objects
 
-### Related Patterns
+### :octocat: Related Patterns
 - [Adapter](https://github.com/armleung/udemy-design-pattern/tree/master/Adapter)
     - **Adapter** change the interface of existing object VS **Decorator** enhance an object without changing its interface
     - **Adapter** provides a different interface to the wrapped object, **Proxy** provides it with the same interface, and **Decorator** provides it with an enhanced interface
@@ -26,7 +26,7 @@
     - **Decorator** adds additional responsibilities to the wrapped object, while **Composite** just “sums up” its children’s results.
 - [Strategy](https://github.com/armleung/udemy-design-pattern/tree/master/Strategy)
     - **Decorator** lets you change the skin of an object, while **Strategy** lets you change the guts.
-### Implementation
+### :octocat: Implementation
 1. Dynamic Decorator
 ```cpp
 struct Shape
