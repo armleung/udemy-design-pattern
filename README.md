@@ -14,7 +14,7 @@ Study Note in Udemy
 - [ ] [Adapter]
 - [ ] [Bridge]
 - [ ] [Composite]
-- [ ] [Decorator]
+- [ ] [Decorator](https://github.com/armleung/udemy-design-pattern/tree/master/Decorator)
 - [ ] [Facade]
 - [ ] [Flyweight]
 - [ ] [Proxy]
