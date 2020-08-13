@@ -1,7 +1,7 @@
 ## Decorator Pattern (Object Structural)
 
 ![Image](https://refactoring.guru/images/patterns/content/decorator/decorator.png)
-### Intent
+### :octocat: Intent
 > Attaches additional responsibilities to an **object** dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
 ### Structure
@@ -27,7 +27,7 @@
 - [Strategy](https://github.com/armleung/udemy-design-pattern/tree/master/Strategy)
     - **Decorator** lets you change the skin of an object, while **Strategy** lets you change the guts.
 ### Implementation
-#### Dynamic Decorator
+1. Dynamic Decorator
 ```cpp
 struct Shape
 {
@@ -136,7 +136,7 @@ void wrapper()
   cout << red_half_visible_circle.str() << endl;
 }
 ```
-#### Static Decorator
+2. Static Decorator
 ```cpp
 // mixin inheritance
 
@@ -199,7 +199,7 @@ void mixin_inheritance()
   cout << blue_invisible_square.str() << endl;
 }
 ```
-#### Functional Decorator
+3. Functional Decorator
 ```cpp
 struct Logger
 {
