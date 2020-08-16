@@ -4,22 +4,23 @@ Study Note in Udemy
 ## Table of Contents
 
 ### Creational
-
 - [ ] [Abstract Factory]
 - [ ] [Builder](https://github.com/armleung/udemy-design-pattern/tree/master/Builder)
 - [ ] [Factory Method]
 - [ ] [Prototype]
 - [ ] [Singleton]
+
 ### Structural
-- [ ] [Adapter]
+- [X] [Adapter](https://github.com/armleung/udemy-design-pattern/tree/master/Adapter)
 - [ ] [Bridge]
 - [ ] [Composite]
 - [X] [Decorator](https://github.com/armleung/udemy-design-pattern/tree/master/Decorator)
 - [ ] [Facade]
 - [ ] [Flyweight]
 - [ ] [Proxy]
+
 ### Behavioral
-- [ ] [Chain of Responsibility]
+- [X] [Chain of Responsibility](https://github.com/armleung/udemy-design-pattern/tree/master/Chain of Responsibility)
 - [ ] [Command]
 - [ ] [Interpreter]
 - [ ] [Iterator]
