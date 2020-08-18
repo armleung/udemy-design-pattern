@@ -17,7 +17,7 @@
 - You can construct objects step-by-step, defer construction steps or run steps recursively.
 
 ### :octocat: Related Patterns
-- [Abstract Factory](https://github.com/armleung/udemy-design-pattern/tree/master/Abstract Factory)
+- [Abstract Factory](https://github.com/armleung/udemy-design-pattern/tree/master/Abstract%20Factory)
     - **Builder** focuses on constructing complex objects step by step. **Abstract Factory** specializes in creating families of related objects. **Abstract Factory** returns the product immediately, whereas **Builder** lets you run some additional construction steps before fetching the product.
 
 ### :octocat: Implementation
@@ -161,4 +161,4 @@ int main1()
   return 0;
 }
 ```
-3. ![Facets Builder](https://github.com/armleung/udemy-design-pattern/tree/master/Builder/BuilderFacets)
+3. [Facets Builder](https://github.com/armleung/udemy-design-pattern/tree/master/Builder/BuilderFacets)

@@ -20,7 +20,7 @@ Study Note in Udemy
 - [ ] [Proxy]
 
 ### Behavioral
-- [X] [Chain of Responsibility](https://github.com/armleung/udemy-design-pattern/tree/master/Chain of Responsibility)
+- [X] [Chain of Responsibility](https://github.com/armleung/udemy-design-pattern/tree/master/Chain%20of%20Responsibility)
 - [ ] [Command]
 - [ ] [Interpreter]
 - [ ] [Iterator]
