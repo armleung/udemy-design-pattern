@@ -6,7 +6,7 @@ Study Note in Udemy
 ### Creational
 - [ ] [Abstract Factory](https://github.com/armleung/udemy-design-pattern/tree/master/Abstract%20Factory)
 - [X] [Builder](https://github.com/armleung/udemy-design-pattern/tree/master/Builder)
-- [ ] [Factory](https://github.com/armleung/udemy-design-pattern/tree/master/Factory)
+- [ ] [Factory Method](https://github.com/armleung/udemy-design-pattern/tree/master/Factory%20Method)
 - [ ] [Prototype](https://github.com/armleung/udemy-design-pattern/tree/master/Prototype)
 - [ ] [Singleton](https://github.com/armleung/udemy-design-pattern/tree/master/Sigleton)
 
