@@ -15,7 +15,7 @@ Study Note in Udemy
 - [ ] [Bridge](https://github.com/armleung/udemy-design-pattern/tree/master/Bridge)
 - [ ] [Composite](https://github.com/armleung/udemy-design-pattern/tree/master/Composite)
 - [X] [Decorator](https://github.com/armleung/udemy-design-pattern/tree/master/Decorator)
-- [ ] [Facade](https://github.com/armleung/udemy-design-pattern/tree/master/Facade)
+- [X] [Facade](https://github.com/armleung/udemy-design-pattern/tree/master/Facade)
 - [ ] [Flyweight](https://github.com/armleung/udemy-design-pattern/tree/master/Flyweight)
 - [ ] [Proxy](https://github.com/armleung/udemy-design-pattern/tree/master/Proxy)
 
