@@ -28,6 +28,6 @@ Study Note in Udemy
 - [ ] [Memento](https://github.com/armleung/udemy-design-pattern/tree/master/Memento)
 - [X] [Observer](https://github.com/armleung/udemy-design-pattern/tree/master/Observer)
 - [X] [State](https://github.com/armleung/udemy-design-pattern/tree/master/State)
-- [ ] [Stragegy](https://github.com/armleung/udemy-design-pattern/tree/master/Stragegy)
+- [X] [Strategy](https://github.com/armleung/udemy-design-pattern/tree/master/Strategy)
 - [X] [Template Method](https://github.com/armleung/udemy-design-pattern/tree/master/Template%20Method)
 - [X] [Visitor](https://github.com/armleung/udemy-design-pattern/tree/master/Visitor)
