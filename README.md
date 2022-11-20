@@ -22,7 +22,7 @@ Study Note in Udemy
 ### Behavioral
 - [X] [Chain of Responsibility](https://github.com/armleung/udemy-design-pattern/tree/master/Chain%20of%20Responsibility)
 - [X] [Command](https://github.com/armleung/udemy-design-pattern/tree/master/Command)
-- [ ] [Interpreter](https://github.com/armleung/udemy-design-pattern/tree/master/Interpreter)
+- [X] [Interpreter](https://github.com/armleung/udemy-design-pattern/tree/master/Interpreter)
 - [ ] [Iterator](https://github.com/armleung/udemy-design-pattern/tree/master/Iterator)
 - [X] [Mediator](https://github.com/armleung/udemy-design-pattern/tree/master/Mediator)
 - [ ] [Memento](https://github.com/armleung/udemy-design-pattern/tree/master/Memento)
