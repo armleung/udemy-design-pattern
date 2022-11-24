@@ -16,7 +16,7 @@ Study Note in Udemy
 - [ ] [Composite](https://github.com/armleung/udemy-design-pattern/tree/master/Composite)
 - [X] [Decorator](https://github.com/armleung/udemy-design-pattern/tree/master/Decorator)
 - [X] [Facade](https://github.com/armleung/udemy-design-pattern/tree/master/Facade)
-- [ ] [Flyweight](https://github.com/armleung/udemy-design-pattern/tree/master/Flyweight)
+- [X] [Flyweight](https://github.com/armleung/udemy-design-pattern/tree/master/Flyweight)
 - [ ] [Proxy](https://github.com/armleung/udemy-design-pattern/tree/master/Proxy)
 
 ### Behavioral
